@@ -58,6 +58,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-##Author
+## Author
 
 - Sathyajith P S - [GitHub](https://github.com/sathyajithps) , [Twitter](https://twitter.com/sathyajith_ps)
